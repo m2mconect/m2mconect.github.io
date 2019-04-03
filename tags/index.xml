@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Universal</title>
+    <link>https://m2mconect.github.io/tags/</link>
+    <description>Recent content in Tags on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://m2mconect.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meetups</title>
+      <link>https://m2mconect.github.io/tags/meetups/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://m2mconect.github.io/tags/meetups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Techbytes</title>
+      <link>https://m2mconect.github.io/tags/techbytes/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://m2mconect.github.io/tags/techbytes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

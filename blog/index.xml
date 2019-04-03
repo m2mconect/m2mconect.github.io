@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Universal</title>
+    <link>https://m2mconect.github.io/blog/</link>
+    <description>Recent content in Blogs on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://m2mconect.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Happy Holidays</title>
+      <link>https://m2mconect.github.io/blog/2018/12/19/happy_holidays/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://m2mconect.github.io/blog/2018/12/19/happy_holidays/</guid>
+      <description>Few days back, came across a tech related workshop for kids hosted in partnership with Microsoft and UBC. For sure, such workshops will be very useful.
+Such workshops will only be the first step. Parents need to get involved in what their kids are learning in such workshops and provide them an environment to make further progress in what they have learned.
+I work with co-op students every day, have interviewed many of them over the past few years.</description>
+    </item>
+    
+    <item>
+      <title>Get ready for Tech Bytes event 2019!</title>
+      <link>https://m2mconect.github.io/blog/2015/10/02/get-ready-for-2019/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://m2mconect.github.io/blog/2015/10/02/get-ready-for-2019/</guid>
+      <description>Happy new year to everyone! We at Tech Bytes, would like to create a platform for technology related discussion and debates and we are planning to conduct an event on Feb 23 2019 in Surrey.
+Impact of technology on our day-to-day life is the tagline for this event and there will be something for everyone. There will be fun games, knowledge sharing, group discussion and more. This is a free event and is open to all.</description>
+    </item>
+    
+    <item>
+      <title>Tech Bytes Announcement</title>
+      <link>https://m2mconect.github.io/blog/2015/10/02/tech_bytes_announcements/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://m2mconect.github.io/blog/2015/10/02/tech_bytes_announcements/</guid>
+      <description>This post is a follow-up to our earlier post and provides more details on what we are planning for the event.
+We would like to focus on 3 areas for our event as below:
+ Presentation skill (Communication) Leadership skill (Collaboration) Product creation (Creativity and Critical Thinking)  Part 1: Presentation skill: Any ideas when written down takes better shape and when presented before a set of audience greatly enhances the presenter&amp;rsquo;s understanding.</description>
+    </item>
+    
+    <item>
+      <title>Tech Bytes Announcement</title>
+      <link>https://m2mconect.github.io/blog/2015/10/02/tech_bytes_announcements_copy/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://m2mconect.github.io/blog/2015/10/02/tech_bytes_announcements_copy/</guid>
+      <description>This post is a follow-up to our earlier post and provides more details on what we are planning for the event.
+We would like to focus on 3 areas for our event as below:
+ Presentation skill (Communication) Leadership skill (Collaboration) Product creation (Creativity and Critical Thinking)  Part 1: Presentation skill: Any ideas when written down takes better shape and when presented before a set of audience greatly enhances the presenter&amp;rsquo;s understanding.</description>
+    </item>
+    
+  </channel>
+</rss>
