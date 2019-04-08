@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>https://m2mconect.github.io/blog/2015/10/02/tech_bytes_announcements/</loc>
+    <loc>https://m2mconect.github.io/blog/2015/10/02/fintech/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://m2mconect.github.io/blog/2015/10/02/tech_bytes_announcements_copy/</loc>
+    <loc>https://m2mconect.github.io/blog/2015/10/02/tech_bytes_announcements/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
@@ -35,6 +35,12 @@
   
   <url>
     <loc>https://m2mconect.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://m2mconect.github.io/tags/fintech/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
