@@ -1,15 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fintech on M2M Conect</title>
+    <title>fintech on FinOps Solutions</title>
     <link>https://m2mconect.github.io/tags/fintech/</link>
-    <description>Recent content in Fintech on M2M Conect</description>
+    <description>Recent content in fintech on FinOps Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://m2mconect.github.io/tags/fintech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disassemble the problem</title>
+      <link>https://m2mconect.github.io/blog/2021/01/07/disassemble_the_problem/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://m2mconect.github.io/blog/2021/01/07/disassemble_the_problem/</guid>
+      <description>Our next step as a Data Analyst is to divide the problem into smaller, manageable, solvable chunks (disassemble).
+Often, your problem will be vague, like this: &amp;ldquo;How do we increase Sales?&amp;rdquo;. The best approach to answer those big problems is to answer the smaller problems, which you’ve analyzed out of the big problem. For instance
+How do we increase sales? could be split into
+What do our best customers want from us?</description>
+    </item>
     
-	<atom:link href="https://m2mconect.github.io/tags/fintech/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Data Analyst</title>
+      <link>https://m2mconect.github.io/blog/2021/01/05/data_analyst/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://m2mconect.github.io/blog/2021/01/05/data_analyst/</guid>
+      <description>So let&amp;rsquo;s say there is a business run by someone for the past 3+ years selling few products primarily targeted for teens. Business has been consistently growing and the team is also expanding. So the CEO hires you (a data analyst) with the hope that you can provide valuable analysis which will help her figure out how to increase sales.
+People who possess Data Analysis skills have a massive edge on everyone else, because they understand what to do with all the humongous data, a business has.</description>
+    </item>
     
     <item>
       <title>Fintech</title>

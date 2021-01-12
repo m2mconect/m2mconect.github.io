@@ -1,38 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on M2M Conect</title>
+    <title>Tags on FinOps Solutions</title>
     <link>https://m2mconect.github.io/tags/</link>
-    <description>Recent content in Tags on M2M Conect</description>
+    <description>Recent content in Tags on FinOps Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://m2mconect.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://m2mconect.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fintech</title>
+      <title>fintech</title>
       <link>https://m2mconect.github.io/tags/fintech/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://m2mconect.github.io/tags/fintech/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Meetups</title>
-      <link>https://m2mconect.github.io/tags/meetups/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://m2mconect.github.io/tags/meetups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Techbytes</title>
+      <title>techbytes</title>
       <link>https://m2mconect.github.io/tags/techbytes/</link>
-      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://m2mconect.github.io/tags/techbytes/</guid>
       <description></description>

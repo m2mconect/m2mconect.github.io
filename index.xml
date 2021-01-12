@@ -1,15 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M2M Conect</title>
+    <title>FinOps Solutions</title>
     <link>https://m2mconect.github.io/</link>
-    <description>Recent content on M2M Conect</description>
+    <description>Recent content on FinOps Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://m2mconect.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disassemble the problem</title>
+      <link>https://m2mconect.github.io/blog/2021/01/07/disassemble_the_problem/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://m2mconect.github.io/blog/2021/01/07/disassemble_the_problem/</guid>
+      <description>Our next step as a Data Analyst is to divide the problem into smaller, manageable, solvable chunks (disassemble).
+Often, your problem will be vague, like this: &amp;ldquo;How do we increase Sales?&amp;rdquo;. The best approach to answer those big problems is to answer the smaller problems, which you’ve analyzed out of the big problem. For instance
+How do we increase sales? could be split into
+What do our best customers want from us?</description>
+    </item>
     
-	<atom:link href="https://m2mconect.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Defining the Problem</title>
+      <link>https://m2mconect.github.io/blog/2021/01/06/defining_the_problem/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://m2mconect.github.io/blog/2021/01/06/defining_the_problem/</guid>
+      <description>Doing data analysis without explicitly defining your problem or goal is like heading out on a road trip without having decided on a destination.
+If you are an analyst and need an hour long slide show to make your point, then often most likely you haven&amp;rsquo;t focused enough on your problem and are throwing your client (boss) with a sea of information as a way of ducking your obligation to solve a problem and recommend a decision.</description>
+    </item>
     
+    <item>
+      <title>Data Analyst</title>
+      <link>https://m2mconect.github.io/blog/2021/01/05/data_analyst/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://m2mconect.github.io/blog/2021/01/05/data_analyst/</guid>
+      <description>So let&amp;rsquo;s say there is a business run by someone for the past 3+ years selling few products primarily targeted for teens. Business has been consistently growing and the team is also expanding. So the CEO hires you (a data analyst) with the hope that you can provide valuable analysis which will help her figure out how to increase sales.
+People who possess Data Analysis skills have a massive edge on everyone else, because they understand what to do with all the humongous data, a business has.</description>
+    </item>
     
     <item>
       <title>Impact of Technology</title>
@@ -19,17 +47,6 @@
       <guid>https://m2mconect.github.io/blog/2019/02/23/impact_of_technology/</guid>
       <description>All revolutions are, until they happen, then they are historical inevitabilities - David Mitchell, Cloud Atlas
 Today’s world is an image of a revolution that has happened. We have gone through numerous revolutions to come to this stage. Though there are a number of revolutions around us throughout the various centuries, all these can be classified into three or in other words they can all be boxed into one of the following.</description>
-    </item>
-    
-    <item>
-      <title>Tech Bytes Announcement</title>
-      <link>https://m2mconect.github.io/blog/2019/01/15/tech_bytes_announcements/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://m2mconect.github.io/blog/2019/01/15/tech_bytes_announcements/</guid>
-      <description>This post is a follow-up to our earlier post and provides more details on what we are planning for the event.
-We would like to focus on 3 areas for our event as below:
- Presentation skill (Communication) Leadership skill (Collaboration) Product creation (Creativity and Critical Thinking)  Part 1: Presentation skill: Any ideas when written down takes better shape and when presented before a set of audience greatly enhances the presenter&amp;rsquo;s understanding.</description>
     </item>
     
     <item>
@@ -44,33 +61,22 @@ There are already many online-only financial institutions which have made their 
     </item>
     
     <item>
-      <title>Get ready for Tech Bytes event 2019!</title>
-      <link>https://m2mconect.github.io/blog/2019/01/02/get-ready-for-2019/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://m2mconect.github.io/blog/2019/01/02/get-ready-for-2019/</guid>
-      <description>Happy new year to everyone! We at Tech Bytes, would like to create a platform for technology related discussion and debates and we are planning to conduct an event on Feb 23 2019 in Surrey.
-Impact of technology on our day-to-day life is the tagline for this event and there will be something for everyone. There will be fun games, knowledge sharing, group discussion and more. This is a free event and is open to all.</description>
-    </item>
-    
-    <item>
-      <title>Happy Holidays</title>
-      <link>https://m2mconect.github.io/blog/2018/12/19/happy_holidays/</link>
-      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://m2mconect.github.io/blog/2018/12/19/happy_holidays/</guid>
-      <description>Few days back, came across a tech related workshop for kids hosted in partnership with Microsoft and UBC. For sure, such workshops will be very useful.
-Such workshops will only be the first step. Parents need to get involved in what their kids are learning in such workshops and provide them an environment to make further progress in what they have learned.
-I work with co-op students every day, have interviewed many of them over the past few years.</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://m2mconect.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://m2mconect.github.io/contact/</guid>
       <description>We are here to help you! Are you interested to know more about our work? Or, if you would like to partner with us - please feel free to contact us with your query below and we will get back to you as soon as possible.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://m2mconect.github.io/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://m2mconect.github.io/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
   </channel>

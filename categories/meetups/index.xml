@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meetups on M2M Conect</title>
+    <title>meetups on FinOps Solutions</title>
     <link>https://m2mconect.github.io/categories/meetups/</link>
-    <description>Recent content in Meetups on M2M Conect</description>
+    <description>Recent content in meetups on FinOps Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://m2mconect.github.io/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://m2mconect.github.io/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impact of Technology</title>
       <link>https://m2mconect.github.io/blog/2019/02/23/impact_of_technology/</link>
@@ -22,17 +18,6 @@ Today’s world is an image of a revolution that has happened. We have gone thro
     </item>
     
     <item>
-      <title>Tech Bytes Announcement</title>
-      <link>https://m2mconect.github.io/blog/2019/01/15/tech_bytes_announcements/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://m2mconect.github.io/blog/2019/01/15/tech_bytes_announcements/</guid>
-      <description>This post is a follow-up to our earlier post and provides more details on what we are planning for the event.
-We would like to focus on 3 areas for our event as below:
- Presentation skill (Communication) Leadership skill (Collaboration) Product creation (Creativity and Critical Thinking)  Part 1: Presentation skill: Any ideas when written down takes better shape and when presented before a set of audience greatly enhances the presenter&amp;rsquo;s understanding.</description>
-    </item>
-    
-    <item>
       <title>Fintech</title>
       <link>https://m2mconect.github.io/blog/2019/01/10/fintech/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
@@ -41,27 +26,6 @@ We would like to focus on 3 areas for our event as below:
       <description>There has been a new jargon in financial industry &amp;ldquo;Fintech&amp;rdquo; which has been floating around for the past few years. &amp;ldquo;Fintech&amp;rdquo; are technology-first (software based) companies that leverage software to compete with traditional financial institutions.
 Traditional brick and mortar financial institutions have to somehow pass their physical location operational costs to their customers in one way or other. Online-only financial institutions fully pass these savings to their customers.
 There are already many online-only financial institutions which have made their mark.</description>
-    </item>
-    
-    <item>
-      <title>Get ready for Tech Bytes event 2019!</title>
-      <link>https://m2mconect.github.io/blog/2019/01/02/get-ready-for-2019/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://m2mconect.github.io/blog/2019/01/02/get-ready-for-2019/</guid>
-      <description>Happy new year to everyone! We at Tech Bytes, would like to create a platform for technology related discussion and debates and we are planning to conduct an event on Feb 23 2019 in Surrey.
-Impact of technology on our day-to-day life is the tagline for this event and there will be something for everyone. There will be fun games, knowledge sharing, group discussion and more. This is a free event and is open to all.</description>
-    </item>
-    
-    <item>
-      <title>Happy Holidays</title>
-      <link>https://m2mconect.github.io/blog/2018/12/19/happy_holidays/</link>
-      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://m2mconect.github.io/blog/2018/12/19/happy_holidays/</guid>
-      <description>Few days back, came across a tech related workshop for kids hosted in partnership with Microsoft and UBC. For sure, such workshops will be very useful.
-Such workshops will only be the first step. Parents need to get involved in what their kids are learning in such workshops and provide them an environment to make further progress in what they have learned.
-I work with co-op students every day, have interviewed many of them over the past few years.</description>
     </item>
     
   </channel>
